@@ -1,0 +1,4 @@
+relationship
+union
+compound
+bond
