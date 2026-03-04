@@ -1,0 +1,1 @@
+["celovitost","nedotakljivost","integriteta"]

@@ -1,0 +1,1 @@
+["immunità","resistenza","resilienza"]

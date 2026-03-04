@@ -1,0 +1,1 @@
+["integralnost","nedjeljivost","cjelovitost"]
