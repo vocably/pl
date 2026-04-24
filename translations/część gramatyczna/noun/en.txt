@@ -1,0 +1,2 @@
+part of speech
+part of a sentence
