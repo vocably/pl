@@ -1,1 +1,3 @@
-["minnufih","mill-ewwel","bla dewmien"]
+minnufih
+mill-ewwel
+bla dewmien

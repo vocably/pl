@@ -1,1 +1,3 @@
-["aldakorra","anitza","orokorra"]
+aldakorra
+anitza
+orokorra

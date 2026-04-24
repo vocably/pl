@@ -1,1 +1,2 @@
-["endelevu","mvumilivu"]
+endelevu
+mvumilivu

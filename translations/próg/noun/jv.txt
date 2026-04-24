@@ -1,1 +1,4 @@
-["lawang","wates","ambang","palang"]
+lawang
+wates
+ambang
+palang

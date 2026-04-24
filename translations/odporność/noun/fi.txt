@@ -1,1 +1,3 @@
-["immuniteetti","kestävyys","vastustuskyky"]
+immuniteetti
+kestävyys
+vastustuskyky

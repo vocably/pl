@@ -1,1 +1,3 @@
-["ubuqotho","ukungaphulwa","ukuphelela"]
+ubuqotho
+ukungaphulwa
+ukuphelela

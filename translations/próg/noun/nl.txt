@@ -1,1 +1,4 @@
-["drempel","drempelwaarde","stuw","fret"]
+drempel
+drempelwaarde
+stuw
+fret

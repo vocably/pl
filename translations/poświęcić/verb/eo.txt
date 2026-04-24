@@ -1,1 +1,3 @@
-["oferi","dedicxi","sanktigi"]
+oferi
+dedicxi
+sanktigi

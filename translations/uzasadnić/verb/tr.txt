@@ -1,1 +1,2 @@
-["haklı çıkarmak","gerekçelendirmek"]
+haklı çıkarmak
+gerekçelendirmek

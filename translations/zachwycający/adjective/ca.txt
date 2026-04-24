@@ -1,1 +1,2 @@
-["captivador","fascinant"]
+captivador
+fascinant

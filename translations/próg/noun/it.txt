@@ -1,1 +1,4 @@
-["soglia","limite","gradino","tasto"]
+soglia
+limite
+gradino
+tasto

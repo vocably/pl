@@ -1,1 +1,4 @@
-["faʻalo","paepae","ʻauala","tua"]
+faʻalo
+paepae
+ʻauala
+tua

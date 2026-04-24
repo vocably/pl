@@ -1,1 +1,3 @@
-["perangai","watak","mood"]
+perangai
+watak
+mood

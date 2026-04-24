@@ -1,1 +1,2 @@
-["bilvosita","vositali"]
+bilvosita
+vositali

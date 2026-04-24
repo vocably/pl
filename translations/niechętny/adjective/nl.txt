@@ -1,1 +1,2 @@
-["afkerig","onwillig"]
+afkerig
+onwillig

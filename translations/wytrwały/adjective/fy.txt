@@ -1,1 +1,2 @@
-["folhâldend","hurdfytsend"]
+folhâldend
+hurdfytsend

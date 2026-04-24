@@ -1,1 +1,3 @@
-["direkt","onverzüglech","spuert net"]
+direkt
+onverzüglech
+spuert net

@@ -1,1 +1,3 @@
-["Integritéit","Onverletzlechkeet","Koherenz"]
+Integritéit
+Onverletzlechkeet
+Koherenz

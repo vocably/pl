@@ -1,1 +1,2 @@
-["sinnikäs","sisukas"]
+sinnikäs
+sisukas

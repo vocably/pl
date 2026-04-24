@@ -1,1 +1,4 @@
-["atalase","muga","uharri","traste"]
+atalase
+muga
+uharri
+traste

@@ -1,1 +1,3 @@
-["jelentős","számottevő","kifejező"]
+jelentős
+számottevő
+kifejező

@@ -1,1 +1,2 @@
-["stadichoan","hieltyd"]
+stadichoan
+hieltyd

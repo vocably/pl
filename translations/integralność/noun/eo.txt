@@ -1,1 +1,3 @@
-["integreco","netuŝebleco","kompleteco"]
+integreco
+netuŝebleco
+kompleteco

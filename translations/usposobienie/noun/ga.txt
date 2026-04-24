@@ -1,1 +1,3 @@
-["meon","dea-ghiúmar","aigne"]
+meon
+dea-ghiúmar
+aigne

@@ -1,1 +1,3 @@
-["integritas","kaonaran","gembleng"]
+integritas
+kaonaran
+gembleng

@@ -1,1 +1,3 @@
-["zanedbať","zanedbávať","opomenúť"]
+zanedbať
+zanedbávať
+opomenúť

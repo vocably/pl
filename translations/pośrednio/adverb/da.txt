@@ -1,1 +1,2 @@
-["indirekte","gennem"]
+indirekte
+gennem

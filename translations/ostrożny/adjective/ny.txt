@@ -1,1 +1,2 @@
-["chenjera","tcheru"]
+chenjera
+tcheru

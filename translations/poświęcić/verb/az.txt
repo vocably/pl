@@ -1,1 +1,3 @@
-["qurban vermək","həsr etmək","təqdis etmək"]
+qurban vermək
+həsr etmək
+təqdis etmək

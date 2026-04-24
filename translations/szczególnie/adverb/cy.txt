@@ -1,1 +1,2 @@
-["yn arbennig","yn enwedig"]
+yn arbennig
+yn enwedig

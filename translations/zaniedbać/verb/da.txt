@@ -1,1 +1,3 @@
-["forsømme","negligere","efterlade"]
+forsømme
+negligere
+efterlade

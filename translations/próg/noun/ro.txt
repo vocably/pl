@@ -1,1 +1,4 @@
-["prag","limită","barieră","fret"]
+prag
+limită
+barieră
+fret

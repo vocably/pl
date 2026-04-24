@@ -1,1 +1,2 @@
-["indiretamente","por intermédio"]
+indiretamente
+por intermédio

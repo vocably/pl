@@ -1,1 +1,2 @@
-["efterdyning","återverkan"]
+efterdyning
+återverkan

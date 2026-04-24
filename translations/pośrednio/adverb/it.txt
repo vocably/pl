@@ -1,1 +1,2 @@
-["indirettamente","tramite"]
+indirettamente
+tramite

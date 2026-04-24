@@ -1,1 +1,3 @@
-["bo nang litsebo tse ngata","bo akaretsang lintho tse ngata","bokahohle"]
+bo nang litsebo tse ngata
+bo akaretsang lintho tse ngata
+bokahohle

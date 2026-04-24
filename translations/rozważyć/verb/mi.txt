@@ -1,1 +1,2 @@
-["whakaaroaro","tātari"]
+whakaaroaro
+tātari

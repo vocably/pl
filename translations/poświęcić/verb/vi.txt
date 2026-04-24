@@ -1,1 +1,3 @@
-["hiến tế","cống hiến","làm phép"]
+hiến tế
+cống hiến
+làm phép

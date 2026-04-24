@@ -1,1 +1,2 @@
-["indirect","prin intermediul"]
+indirect
+prin intermediul

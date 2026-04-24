@@ -1,1 +1,3 @@
-["rezultatas","padarinys","išeitis"]
+rezultatas
+padarinys
+išeitis

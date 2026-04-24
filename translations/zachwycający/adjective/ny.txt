@@ -1,1 +1,2 @@
-["wokongola","wosangalatsa"]
+wokongola
+wosangalatsa

@@ -1,1 +1,4 @@
-["qhov rooj","theem","nthab","ntug"]
+qhov rooj
+theem
+nthab
+ntug

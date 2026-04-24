@@ -1,1 +1,3 @@
-["wamphamvu zambiri","wodziwa zambiri","wosiyanasiyana"]
+wamphamvu zambiri
+wodziwa zambiri
+wosiyanasiyana

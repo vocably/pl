@@ -1,1 +1,3 @@
-["dərhal","tezliklə","cəld"]
+dərhal
+tezliklə
+cəld

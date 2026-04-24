@@ -1,1 +1,3 @@
-["opfere","besteegje","wijje"]
+opfere
+besteegje
+wijje

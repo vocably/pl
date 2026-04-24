@@ -1,1 +1,3 @@
-["uadilifu","ukamilifu","utimilifu"]
+uadilifu
+ukamilifu
+utimilifu

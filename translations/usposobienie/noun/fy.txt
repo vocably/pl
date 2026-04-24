@@ -1,1 +1,3 @@
-["temperamint","aard","ynstelling"]
+temperamint
+aard
+ynstelling

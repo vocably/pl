@@ -1,1 +1,3 @@
-["rezultat","izid","število točk"]
+rezultat
+izid
+število točk

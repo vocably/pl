@@ -1,1 +1,3 @@
-["polivalan","konplè","inivèsèl"]
+polivalan
+konplè
+inivèsèl

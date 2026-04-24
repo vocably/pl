@@ -1,1 +1,3 @@
-["taua","mautinoa","tele"]
+taua
+mautinoa
+tele

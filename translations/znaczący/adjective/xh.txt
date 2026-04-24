@@ -1,1 +1,3 @@
-["balulekile","cacile","inkulu"]
+balulekile
+cacile
+inkulu

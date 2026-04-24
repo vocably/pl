@@ -1,1 +1,3 @@
-["hurid","allabari","quduseey"]
+hurid
+allabari
+quduseey

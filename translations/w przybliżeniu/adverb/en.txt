@@ -1,1 +1,2 @@
-["approximately","roughly"]
+approximately
+roughly

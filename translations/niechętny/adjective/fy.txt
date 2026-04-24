@@ -1,1 +1,2 @@
-["ôffearich","wjeraksel"]
+ôffearich
+wjeraksel

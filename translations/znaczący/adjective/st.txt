@@ -1,1 +1,3 @@
-["bohlokoa","hloahloa","kgolo"]
+bohlokoa
+hloahloa
+kgolo

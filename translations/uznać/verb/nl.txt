@@ -1,1 +1,3 @@
-["erkennen","aanvaarden","bevestigen"]
+erkennen
+aanvaarden
+bevestigen

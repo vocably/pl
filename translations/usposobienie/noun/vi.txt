@@ -1,1 +1,3 @@
-["tính khí","tâm trạng","khuynh hướng"]
+tính khí
+tâm trạng
+khuynh hướng

@@ -1,1 +1,3 @@
-["okubalulekile","okunamandla","okukhulu"]
+okubalulekile
+okunamandla
+okukhulu

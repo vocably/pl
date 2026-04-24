@@ -1,1 +1,3 @@
-["bedeitend","wichteg","markant"]
+bedeitend
+wichteg
+markant

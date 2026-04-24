@@ -1,1 +1,3 @@
-["dabeecad","xaalad","dareen"]
+dabeecad
+xaalad
+dareen

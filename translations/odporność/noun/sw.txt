@@ -1,1 +1,3 @@
-["kinga","ustahimilivu","ukakamavu"]
+kinga
+ustahimilivu
+ukakamavu

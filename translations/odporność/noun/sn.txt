@@ -1,1 +1,3 @@
-["dziviriro","kusimba","ushingi"]
+dziviriro
+kusimba
+ushingi

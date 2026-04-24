@@ -1,1 +1,3 @@
-["dìonachd","seasmhachd","fulangas"]
+dìonachd
+seasmhachd
+fulangas

@@ -1,1 +1,3 @@
-["tonu","i naianei","wawe tonu"]
+tonu
+i naianei
+wawe tonu

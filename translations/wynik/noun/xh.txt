@@ -1,1 +1,3 @@
-["isiphumo","umphumo","ibala"]
+isiphumo
+umphumo
+ibala

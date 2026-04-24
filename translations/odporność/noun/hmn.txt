@@ -1,1 +1,3 @@
-["kev tiv thaiv","lub zog","kev ua siab ntev"]
+kev tiv thaiv
+lub zog
+kev ua siab ntev

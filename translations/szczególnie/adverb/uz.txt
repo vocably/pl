@@ -1,1 +1,2 @@
-["ayniqsa","o'zgacha"]
+ayniqsa
+o'zgacha

@@ -1,1 +1,3 @@
-["ārai mate","pakari","manawanui"]
+ārai mate
+pakari
+manawanui

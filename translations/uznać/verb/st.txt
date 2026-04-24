@@ -1,1 +1,3 @@
-["ho amohela","ho ananela","ho nka e le 'nete"]
+ho amohela
+ho ananela
+ho nka e le 'nete

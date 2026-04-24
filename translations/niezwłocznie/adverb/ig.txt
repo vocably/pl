@@ -1,1 +1,3 @@
-["ozigbo","ngwa ngwa","ugbua"]
+ozigbo
+ngwa ngwa
+ugbua

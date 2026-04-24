@@ -1,1 +1,3 @@
-["công nhận","thừa nhận","tôn trọng"]
+công nhận
+thừa nhận
+tôn trọng

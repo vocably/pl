@@ -1,1 +1,2 @@
-["seuraus","kaiku"]
+seuraus
+kaiku

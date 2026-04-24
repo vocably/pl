@@ -1,1 +1,3 @@
-["ugali","kalooban","disposisyon"]
+ugali
+kalooban
+disposisyon

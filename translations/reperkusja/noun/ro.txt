@@ -1,1 +1,2 @@
-["repercusiune","ecou"]
+repercusiune
+ecou

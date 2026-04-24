@@ -1,1 +1,3 @@
-["kupereka nsembe","kutaya nthawi","kupatulira"]
+kupereka nsembe
+kutaya nthawi
+kupatulira

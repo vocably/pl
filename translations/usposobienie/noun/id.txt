@@ -1,1 +1,3 @@
-["temperamen","suasana hati","watak"]
+temperamen
+suasana hati
+watak

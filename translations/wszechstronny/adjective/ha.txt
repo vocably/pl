@@ -1,1 +1,3 @@
-["mai iyawa da yawa","mai fannoni da yawa","mai amfani ga kowa"]
+mai iyawa da yawa
+mai fannoni da yawa
+mai amfani ga kowa

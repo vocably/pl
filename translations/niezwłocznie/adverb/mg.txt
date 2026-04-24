@@ -1,1 +1,3 @@
-["avy hatrany","tsy misy hatak'andro","miaraka amin'izay"]
+avy hatrany
+tsy misy hatak'andro
+miaraka amin'izay

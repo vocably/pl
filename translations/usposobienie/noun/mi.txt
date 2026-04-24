@@ -1,1 +1,3 @@
-["āhua","ngākau","manawa"]
+āhua
+ngākau
+manawa

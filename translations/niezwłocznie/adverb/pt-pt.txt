@@ -1,1 +1,3 @@
-["imediatamente","sem demora","o mais depressa possível"]
+imediatamente
+sem demora
+o mais depressa possível

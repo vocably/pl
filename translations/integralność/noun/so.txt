@@ -1,1 +1,3 @@
-["dhammaystirnaan","midnimo","iskaashi"]
+dhammaystirnaan
+midnimo
+iskaashi

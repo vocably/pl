@@ -1,1 +1,2 @@
-["pakisa","hlalosa"]
+pakisa
+hlalosa

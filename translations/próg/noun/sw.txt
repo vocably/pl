@@ -1,1 +1,4 @@
-["kizingiti","kiwango","ukomo","fundo"]
+kizingiti
+kiwango
+ukomo
+fundo

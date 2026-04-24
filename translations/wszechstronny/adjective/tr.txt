@@ -1,1 +1,3 @@
-["çok yönlü","kapsamlı","evrensel"]
+çok yönlü
+kapsamlı
+evrensel

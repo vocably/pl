@@ -1,1 +1,3 @@
-["daliks","fuortendaliks","terstûn"]
+daliks
+fuortendaliks
+terstûn

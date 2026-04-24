@@ -1,1 +1,2 @@
-["přibližně","zhruba"]
+přibližně
+zhruba

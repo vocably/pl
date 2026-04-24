@@ -1,1 +1,2 @@
-["memukau","menawan"]
+memukau
+menawan

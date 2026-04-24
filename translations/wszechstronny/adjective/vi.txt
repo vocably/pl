@@ -1,1 +1,3 @@
-["đa năng","toàn diện","đa diện"]
+đa năng
+toàn diện
+đa diện

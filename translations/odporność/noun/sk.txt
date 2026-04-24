@@ -1,1 +1,3 @@
-["odolnosť","rezistencia","výdrž"]
+odolnosť
+rezistencia
+výdrž

@@ -1,1 +1,3 @@
-["kwirengagiza","kutuzuza","kudasohoza"]
+kwirengagiza
+kutuzuza
+kudasohoza

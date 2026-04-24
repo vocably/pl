@@ -1,1 +1,3 @@
-["imiterere","uburyo","imigenzereze"]
+imiterere
+uburyo
+imigenzereze

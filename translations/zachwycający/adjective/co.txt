@@ -1,1 +1,2 @@
-["incantevule","magnificu"]
+incantevule
+magnificu

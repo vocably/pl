@@ -1,1 +1,3 @@
-["erken","aanvaar","bekragtig"]
+erken
+aanvaar
+bekragtig

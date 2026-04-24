@@ -1,1 +1,3 @@
-["toradh","scór","freagra"]
+toradh
+scór
+freagra

@@ -1,1 +1,3 @@
-["rezulto","poentaro","sumo"]
+rezulto
+poentaro
+sumo

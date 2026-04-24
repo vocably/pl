@@ -1,1 +1,3 @@
-["díonacht","frithsheasmhacht","cruas"]
+díonacht
+frithsheasmhacht
+cruas

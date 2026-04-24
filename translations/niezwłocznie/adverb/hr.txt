@@ -1,1 +1,3 @@
-["odmah","hitno","bez odlaganja"]
+odmah
+hitno
+bez odlaganja

@@ -1,1 +1,2 @@
-["encantador","deslumbrante"]
+encantador
+deslumbrante

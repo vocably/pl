@@ -1,1 +1,3 @@
-["ukhuselo","amandla","unyamezelo"]
+ukhuselo
+amandla
+unyamezelo

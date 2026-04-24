@@ -1,1 +1,4 @@
-["tröskel","gräns","stryka","band"]
+tröskel
+gräns
+stryka
+band

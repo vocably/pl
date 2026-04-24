@@ -1,1 +1,2 @@
-["þrautseigur","viðvarandi"]
+þrautseigur
+viðvarandi

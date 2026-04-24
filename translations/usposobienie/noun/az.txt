@@ -1,1 +1,3 @@
-["xasiyyət","əhval-ruhiyyə","təbiət"]
+xasiyyət
+əhval-ruhiyyə
+təbiət

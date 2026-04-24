@@ -1,1 +1,3 @@
-["mengorbankan","membaktikan","mentahbiskan"]
+mengorbankan
+membaktikan
+mentahbiskan

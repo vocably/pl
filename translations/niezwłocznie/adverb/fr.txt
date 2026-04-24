@@ -1,1 +1,3 @@
-["immédiatement","sans délai","aussitôt"]
+immédiatement
+sans délai
+aussitôt

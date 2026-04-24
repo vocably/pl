@@ -1,1 +1,3 @@
-["emaitza","puntuazioa","ebazpena"]
+emaitza
+puntuazioa
+ebazpena

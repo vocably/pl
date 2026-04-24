@@ -1,1 +1,3 @@
-["natija","hisob","yakun"]
+natija
+hisob
+yakun

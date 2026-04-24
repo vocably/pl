@@ -1,1 +1,4 @@
-["umbral","límite","rápido","traste"]
+umbral
+límite
+rápido
+traste

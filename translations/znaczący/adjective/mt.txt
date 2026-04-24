@@ -1,1 +1,3 @@
-["sinifikanti","importanti","notevoli"]
+sinifikanti
+importanti
+notevoli

@@ -1,1 +1,3 @@
-["elhanyagol","elmulaszt","lekésik"]
+elhanyagol
+elmulaszt
+lekésik

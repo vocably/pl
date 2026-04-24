@@ -1,1 +1,1 @@
-["go háirithe"]
+go háirithe

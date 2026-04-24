@@ -1,1 +1,2 @@
-["gu neo-dhìreach","gu eadar-mheadhanach"]
+gu neo-dhìreach
+gu eadar-mheadhanach

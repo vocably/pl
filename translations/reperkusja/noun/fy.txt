@@ -1,1 +1,2 @@
-["gefolch","reperkusje"]
+gefolch
+reperkusje

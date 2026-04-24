@@ -1,1 +1,2 @@
-["fakazela","sekela"]
+fakazela
+sekela

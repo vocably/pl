@@ -1,1 +1,2 @@
-["zvážiť","rozvážiť"]
+zvážiť
+rozvážiť

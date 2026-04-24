@@ -1,1 +1,3 @@
-["všestranný","komplexní","univerzální"]
+všestranný
+komplexní
+univerzální

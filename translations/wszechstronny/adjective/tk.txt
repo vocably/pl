@@ -1,1 +1,3 @@
-["köpugurly","hemmetaraplaýyn","uniwersal"]
+köpugurly
+hemmetaraplaýyn
+uniwersal

@@ -1,1 +1,3 @@
-["ónæmi","viðnám","þol"]
+ónæmi
+viðnám
+þol

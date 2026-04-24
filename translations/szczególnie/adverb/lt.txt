@@ -1,1 +1,2 @@
-["ypač","ypatingai"]
+ypač
+ypatingai

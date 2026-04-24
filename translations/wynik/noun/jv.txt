@@ -1,1 +1,3 @@
-["asil","babagan","dadi"]
+asil
+babagan
+dadi

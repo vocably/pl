@@ -1,1 +1,3 @@
-["resultat","utfall","poengsum"]
+resultat
+utfall
+poengsum

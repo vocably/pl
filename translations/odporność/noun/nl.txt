@@ -1,1 +1,3 @@
-["immuniteit","weerstand","veerkracht"]
+immuniteit
+weerstand
+veerkracht

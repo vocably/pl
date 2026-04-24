@@ -1,1 +1,2 @@
-["aztertu","kontuan hartu"]
+aztertu
+kontuan hartu

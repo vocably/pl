@@ -1,1 +1,2 @@
-["inandırmaq","əmin etmək"]
+inandırmaq
+əmin etmək

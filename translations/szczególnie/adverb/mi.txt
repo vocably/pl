@@ -1,1 +1,2 @@
-["motuhake","rawa"]
+motuhake
+rawa

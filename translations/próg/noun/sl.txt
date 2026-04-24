@@ -1,1 +1,4 @@
-["prag","meja","pregrada","prečka"]
+prag
+meja
+pregrada
+prečka

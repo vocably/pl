@@ -1,1 +1,2 @@
-["persistenti","reżiljenti"]
+persistenti
+reżiljenti

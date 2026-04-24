@@ -1,1 +1,3 @@
-["toudsuite","imedyatman","san pèdi tan"]
+toudsuite
+imedyatman
+san pèdi tan

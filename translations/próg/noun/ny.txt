@@ -1,1 +1,4 @@
-["chiwundo","mphambano","malire","chopinga"]
+chiwundo
+mphambano
+malire
+chopinga

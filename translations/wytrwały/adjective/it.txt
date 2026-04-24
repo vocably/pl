@@ -1,1 +1,2 @@
-["perseverante","costante"]
+perseverante
+costante

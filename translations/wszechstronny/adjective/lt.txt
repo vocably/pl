@@ -1,1 +1,3 @@
-["įvairiapusis","universalus","visapusis"]
+įvairiapusis
+universalus
+visapusis

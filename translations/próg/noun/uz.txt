@@ -1,1 +1,4 @@
-["eshik osti","boshlang'ich nuqta","chegara","damba"]
+eshik osti
+boshlang'ich nuqta
+chegara
+damba

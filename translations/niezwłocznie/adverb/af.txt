@@ -1,1 +1,3 @@
-["onmiddellik","dadelik","terstond"]
+onmiddellik
+dadelik
+terstond

@@ -1,1 +1,3 @@
-["integrità","integrità territuriale","integrità di i dati"]
+integrità
+integrità territuriale
+integrità di i dati

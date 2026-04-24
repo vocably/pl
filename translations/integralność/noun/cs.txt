@@ -1,1 +1,3 @@
-["integrita","nedotknutelnost","celistvost"]
+integrita
+nedotknutelnost
+celistvost

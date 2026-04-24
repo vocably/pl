@@ -1,1 +1,3 @@
-["whānui","maha","taketake"]
+whānui
+maha
+taketake

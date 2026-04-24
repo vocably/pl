@@ -1,1 +1,4 @@
-["þröskuldur","mörk","þrep","band"]
+þröskuldur
+mörk
+þrep
+band

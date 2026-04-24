@@ -1,1 +1,3 @@
-["gun dàil","sa bhad","air ball"]
+gun dàil
+sa bhad
+air ball

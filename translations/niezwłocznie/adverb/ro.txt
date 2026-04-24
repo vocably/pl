@@ -1,1 +1,3 @@
-["imediat","neîntârziat","fără întârziere"]
+imediat
+neîntârziat
+fără întârziere

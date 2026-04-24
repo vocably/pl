@@ -1,1 +1,2 @@
-["tsy tia","mankahala"]
+tsy tia
+mankahala

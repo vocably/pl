@@ -1,1 +1,3 @@
-["pataki","tóbi","lágbára"]
+pataki
+tóbi
+lágbára

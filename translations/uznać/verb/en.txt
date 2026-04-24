@@ -1,1 +1,3 @@
-["to recognize","to acknowledge","to accept"]
+to recognize
+to acknowledge
+to accept

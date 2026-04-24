@@ -1,1 +1,2 @@
-["tabah","gigih"]
+tabah
+gigih

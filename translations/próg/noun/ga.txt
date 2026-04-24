@@ -1,1 +1,4 @@
-["tairseach","táirseach","praghas","bundroim"]
+tairseach
+táirseach
+praghas
+bundroim

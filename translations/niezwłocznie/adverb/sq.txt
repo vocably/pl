@@ -1,1 +1,3 @@
-["menjëherë","pa vonesë","sapo"]
+menjëherë
+pa vonesë
+sapo

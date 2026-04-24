@@ -1,1 +1,3 @@
-["recoñecer","admitir","validar"]
+recoñecer
+admitir
+validar

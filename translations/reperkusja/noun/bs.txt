@@ -1,1 +1,2 @@
-["posljedica","eho"]
+posljedica
+eho

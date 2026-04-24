@@ -1,1 +1,2 @@
-["betagende","fortryllende"]
+betagende
+fortryllende

@@ -1,1 +1,3 @@
-["stuamachd","gnè","sealladh"]
+stuamachd
+gnè
+sealladh

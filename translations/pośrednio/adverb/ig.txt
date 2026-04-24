@@ -1,1 +1,2 @@
-["n'ụzọ na-apụtaghị ìhè","site na"]
+n'ụzọ na-apụtaghị ìhè
+site na

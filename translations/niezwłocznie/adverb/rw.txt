@@ -1,1 +1,3 @@
-["ako kanya","ako na ako","mu kanya gato"]
+ako kanya
+ako na ako
+mu kanya gato

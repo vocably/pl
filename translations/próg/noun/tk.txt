@@ -1,1 +1,4 @@
-["bosaga","kütek","eşik","perde"]
+bosaga
+kütek
+eşik
+perde

@@ -1,1 +1,4 @@
-["marinka","heer","caadifad","dariiqad"]
+marinka
+heer
+caadifad
+dariiqad

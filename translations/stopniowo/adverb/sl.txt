@@ -1,1 +1,2 @@
-["postopoma","stopnjevito"]
+postopoma
+stopnjevito

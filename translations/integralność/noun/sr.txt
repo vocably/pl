@@ -1,1 +1,3 @@
-["integralnost","nedeljivost","celovitost"]
+integralnost
+nedeljivost
+celovitost

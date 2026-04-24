@@ -1,1 +1,3 @@
-["afferen","widmen","seegen"]
+afferen
+widmen
+seegen

@@ -1,1 +1,3 @@
-["offeren","wijden","inzegene"]
+offeren
+wijden
+inzegene

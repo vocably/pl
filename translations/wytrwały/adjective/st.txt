@@ -1,1 +1,2 @@
-["tiisetsang","mamello"]
+tiisetsang
+mamello

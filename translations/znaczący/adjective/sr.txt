@@ -1,1 +1,3 @@
-["značajan","bitan","velik"]
+značajan
+bitan
+velik

@@ -1,1 +1,3 @@
-["azonnal","haladéktalanul","nyomban"]
+azonnal
+haladéktalanul
+nyomban

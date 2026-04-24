@@ -1,1 +1,2 @@
-["še posebej","zlasti"]
+še posebej
+zlasti

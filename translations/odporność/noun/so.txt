@@ -1,1 +1,3 @@
-["difaac","adkaysi","dulqaad"]
+difaac
+adkaysi
+dulqaad

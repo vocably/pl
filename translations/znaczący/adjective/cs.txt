@@ -1,1 +1,3 @@
-["významný","značný","markantní"]
+významný
+značný
+markantní

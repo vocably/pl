@@ -1,1 +1,3 @@
-["integritet","cjelovitost","nepovredivost"]
+integritet
+cjelovitost
+nepovredivost

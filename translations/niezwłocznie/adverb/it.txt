@@ -1,1 +1,3 @@
-["immediatamente","subito","senza indugio"]
+immediatamente
+subito
+senza indugio

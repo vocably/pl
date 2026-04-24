@@ -1,1 +1,2 @@
-["indirettamente","per mezu"]
+indirettamente
+per mezu

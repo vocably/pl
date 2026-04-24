@@ -1,1 +1,3 @@
-["versatile","all-round","comprehensive"]
+versatile
+all-round
+comprehensive

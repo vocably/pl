@@ -1,1 +1,3 @@
-["forsømme","neglisjere","vanrøkte"]
+forsømme
+neglisjere
+vanrøkte

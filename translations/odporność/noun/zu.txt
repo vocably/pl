@@ -1,1 +1,3 @@
-["amasosha omzimba","ukuvikeleka","amandla"]
+amasosha omzimba
+ukuvikeleka
+amandla

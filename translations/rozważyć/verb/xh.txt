@@ -1,1 +1,2 @@
-["qwalasela","cingisisa"]
+qwalasela
+cingisisa

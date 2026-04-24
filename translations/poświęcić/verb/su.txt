@@ -1,1 +1,3 @@
-["ngurban","ngorbankeun","nyucikeun"]
+ngurban
+ngorbankeun
+nyucikeun

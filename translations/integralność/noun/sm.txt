@@ -1,1 +1,3 @@
-["faamaoni","atonu","maopoopo"]
+faamaoni
+atonu
+maopoopo

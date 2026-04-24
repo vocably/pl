@@ -1,1 +1,2 @@
-["fíoraigh","dearbhaigh"]
+fíoraigh
+dearbhaigh

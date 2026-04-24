@@ -1,1 +1,3 @@
-["Immunitéit","Resistenz","Widderstandsfäegkeet"]
+Immunitéit
+Resistenz
+Widderstandsfäegkeet

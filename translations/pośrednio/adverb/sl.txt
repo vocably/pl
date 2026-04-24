@@ -1,1 +1,1 @@
-["posredno"]
+posredno

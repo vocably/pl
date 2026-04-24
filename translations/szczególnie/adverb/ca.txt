@@ -1,1 +1,2 @@
-["especialment","particularment"]
+especialment
+particularment

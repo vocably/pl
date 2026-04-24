@@ -1,1 +1,2 @@
-["amin'ny alalan'ny","anelanelany"]
+amin'ny alalan'ny
+anelanelany

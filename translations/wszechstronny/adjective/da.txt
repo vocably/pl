@@ -1,1 +1,3 @@
-["alsidig","mangesidet","universel"]
+alsidig
+mangesidet
+universel

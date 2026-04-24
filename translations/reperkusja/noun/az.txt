@@ -1,1 +1,2 @@
-["nəticə","əks-səda"]
+nəticə
+əks-səda

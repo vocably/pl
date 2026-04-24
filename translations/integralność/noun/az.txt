@@ -1,1 +1,3 @@
-["bütövlük","toxunulmazlıq","tamlıq"]
+bütövlük
+toxunulmazlıq
+tamlıq

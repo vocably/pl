@@ -1,1 +1,3 @@
-["cudthromach","sònraichte","mòr"]
+cudthromach
+sònraichte
+mòr

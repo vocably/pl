@@ -1,1 +1,3 @@
-["jirrikonoxxi","jaċċetta","japprova"]
+jirrikonoxxi
+jaċċetta
+japprova

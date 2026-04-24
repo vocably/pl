@@ -1,1 +1,3 @@
-["immunitat","resistència","fortalesa"]
+immunitat
+resistència
+fortalesa

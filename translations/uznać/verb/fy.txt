@@ -1,1 +1,3 @@
-["erkennen","bekennen","goedkarre"]
+erkennen
+bekennen
+goedkarre

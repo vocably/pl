@@ -1,1 +1,2 @@
-["vaimustav","lummav"]
+vaimustav
+lummav

@@ -1,1 +1,2 @@
-["ulet","tabah"]
+ulet
+tabah

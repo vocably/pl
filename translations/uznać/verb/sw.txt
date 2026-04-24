@@ -1,1 +1,3 @@
-["kukubali","kutambua","kuhalalisha"]
+kukubali
+kutambua
+kuhalalisha

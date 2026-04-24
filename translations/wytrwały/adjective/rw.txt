@@ -1,1 +1,2 @@
-["Umunyabwira","Udahwema"]
+Umunyabwira
+Udahwema

@@ -1,1 +1,3 @@
-["ialay","ilaan","basbasan"]
+ialay
+ilaan
+basbasan

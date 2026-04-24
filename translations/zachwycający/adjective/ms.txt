@@ -1,1 +1,2 @@
-["mempesonakan","menarik"]
+mempesonakan
+menarik

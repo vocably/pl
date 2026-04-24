@@ -1,1 +1,3 @@
-["sakrifye","konsakre","beni"]
+sakrifye
+konsakre
+beni

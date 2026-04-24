@@ -1,1 +1,3 @@
-["iminite","rezistans","andirans"]
+iminite
+rezistans
+andirans

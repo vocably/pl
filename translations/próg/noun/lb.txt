@@ -1,1 +1,4 @@
-["d'Schwell","d'Grenz","d'Barriär","de Bund"]
+d'Schwell
+d'Grenz
+d'Barriär
+de Bund

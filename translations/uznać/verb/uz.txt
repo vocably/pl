@@ -1,1 +1,3 @@
-["tan olmoq","ma'qullamoq","tasdiqlamoq"]
+tan olmoq
+ma'qullamoq
+tasdiqlamoq

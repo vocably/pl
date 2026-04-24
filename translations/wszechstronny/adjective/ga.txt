@@ -1,1 +1,3 @@
-["ilghnéitheach","cuimsitheach","uileghabhálach"]
+ilghnéitheach
+cuimsitheach
+uileghabhálach

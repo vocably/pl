@@ -1,1 +1,3 @@
-["ingenzi","gifatika","kinini"]
+ingenzi
+gifatika
+kinini

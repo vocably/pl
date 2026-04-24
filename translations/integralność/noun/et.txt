@@ -1,1 +1,3 @@
-["terviklikkus","puutumatus","integriteet"]
+terviklikkus
+puutumatus
+integriteet

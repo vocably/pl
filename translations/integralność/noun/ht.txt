@@ -1,1 +1,3 @@
-["entegrite","inite","konplè"]
+entegrite
+inite
+konplè

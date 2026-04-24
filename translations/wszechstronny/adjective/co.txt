@@ -1,1 +1,3 @@
-["universale","polivalente","ecletticu"]
+universale
+polivalente
+ecletticu

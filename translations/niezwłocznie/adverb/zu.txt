@@ -1,1 +1,3 @@
-["masinyane","ngokushesha","khona manjalo"]
+masinyane
+ngokushesha
+khona manjalo

@@ -1,1 +1,2 @@
-["zuhur","kontuzio"]
+zuhur
+kontuzio

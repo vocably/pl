@@ -1,1 +1,3 @@
-["otpornost","izdržljivost","snaga"]
+otpornost
+izdržljivost
+snaga

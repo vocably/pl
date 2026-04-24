@@ -1,1 +1,3 @@
-["alsidich","fidele","universeel"]
+alsidich
+fidele
+universeel

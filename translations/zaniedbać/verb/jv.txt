@@ -1,1 +1,3 @@
-["nglirwakake","nglalekake","ngendelake"]
+nglirwakake
+nglalekake
+ngendelake

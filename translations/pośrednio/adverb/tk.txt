@@ -1,1 +1,2 @@
-["göni däl","aralyk"]
+göni däl
+aralyk

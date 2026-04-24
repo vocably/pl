@@ -1,1 +1,2 @@
-["nelinkęs","nenoriai"]
+nelinkęs
+nenoriai

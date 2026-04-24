@@ -1,1 +1,2 @@
-["vakuuttaa","saada vakuuttuneeksi"]
+vakuuttaa
+saada vakuuttuneeksi

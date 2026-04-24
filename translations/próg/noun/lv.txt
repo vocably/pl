@@ -1,1 +1,4 @@
-["slieksnis","robeža","šķērslis","dalītājs"]
+slieksnis
+robeža
+šķērslis
+dalītājs

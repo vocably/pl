@@ -1,1 +1,2 @@
-["ondorio","erreperkusio"]
+ondorio
+erreperkusio

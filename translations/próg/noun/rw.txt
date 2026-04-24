@@ -1,1 +1,4 @@
-["umuryango","inzira","irembo","urugi"]
+umuryango
+inzira
+irembo
+urugi

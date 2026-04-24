@@ -1,1 +1,2 @@
-["kaakit-akit","nakabibighani"]
+kaakit-akit
+nakabibighani

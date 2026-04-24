@@ -1,1 +1,3 @@
-["mitmekülgne","universaalne","laiahaardeline"]
+mitmekülgne
+universaalne
+laiahaardeline

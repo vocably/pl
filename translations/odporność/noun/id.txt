@@ -1,1 +1,3 @@
-["imunitas","daya tahan","ketahanan"]
+imunitas
+daya tahan
+ketahanan

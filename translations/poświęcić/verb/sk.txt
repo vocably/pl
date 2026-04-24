@@ -1,1 +1,3 @@
-["obetovať","venovať","posvätiť"]
+obetovať
+venovať
+posvätiť

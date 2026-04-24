@@ -1,1 +1,2 @@
-["rezilta","nòt"]
+rezilta
+nòt

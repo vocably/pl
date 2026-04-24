@@ -1,1 +1,3 @@
-["kurban etmek","adamak","takdis etmek"]
+kurban etmek
+adamak
+takdis etmek

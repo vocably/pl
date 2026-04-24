@@ -1,1 +1,3 @@
-["sakrifikoj","kushtoj","shenjtëroj"]
+sakrifikoj
+kushtoj
+shenjtëroj

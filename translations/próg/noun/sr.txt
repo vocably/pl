@@ -1,1 +1,3 @@
-["prag","granica","prepreka"]
+prag
+granica
+prepreka

@@ -1,1 +1,3 @@
-["isla mar","haddaba","markiiba"]
+isla mar
+haddaba
+markiiba

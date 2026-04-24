@@ -1,1 +1,3 @@
-["issagrifika","iddedika","ikkonsagra"]
+issagrifika
+iddedika
+ikkonsagra

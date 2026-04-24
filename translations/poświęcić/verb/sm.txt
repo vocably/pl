@@ -1,1 +1,3 @@
-["osaga","faʻasā","faʻapaʻia"]
+osaga
+faʻasā
+faʻapaʻia

@@ -1,1 +1,3 @@
-["integridad","inviolabilidad","coherencia"]
+integridad
+inviolabilidad
+coherencia

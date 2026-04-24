@@ -1,1 +1,4 @@
-["seuil","pas","frette","barre"]
+seuil
+pas
+frette
+barre

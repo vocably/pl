@@ -1,1 +1,3 @@
-["anerkende","godkende","erkende"]
+anerkende
+godkende
+erkende

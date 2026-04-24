@@ -1,1 +1,2 @@
-["die Auswirkung","die Nachwirkung"]
+die Auswirkung
+die Nachwirkung

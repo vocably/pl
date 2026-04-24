@@ -1,1 +1,2 @@
-["rétisan","repouse"]
+rétisan
+repouse

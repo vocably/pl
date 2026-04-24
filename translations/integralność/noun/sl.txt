@@ -1,1 +1,3 @@
-["celovitost","nedotakljivost","integriteta"]
+celovitost
+nedotakljivost
+integriteta

@@ -1,1 +1,2 @@
-["sekvo","reperkuso"]
+sekvo
+reperkuso

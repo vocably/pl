@@ -1,1 +1,2 @@
-["eriti","iseäranis"]
+eriti
+iseäranis

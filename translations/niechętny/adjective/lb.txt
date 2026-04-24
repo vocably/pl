@@ -1,1 +1,2 @@
-["net gewëllt","ongewëllt"]
+net gewëllt
+ongewëllt

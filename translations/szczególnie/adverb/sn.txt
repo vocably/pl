@@ -1,1 +1,2 @@
-["kunyanya","zvikuru"]
+kunyanya
+zvikuru

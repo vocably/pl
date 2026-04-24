@@ -1,1 +1,3 @@
-["txiaj ntsig","tshuaj","lus teb"]
+txiaj ntsig
+tshuaj
+lus teb

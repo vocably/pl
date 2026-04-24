@@ -1,1 +1,4 @@
-["limitu","soll","għatba","frett"]
+limitu
+soll
+għatba
+frett

@@ -1,1 +1,3 @@
-["ukunikezela","ukudela","ukungcwelisa"]
+ukunikezela
+ukudela
+ukungcwelisa

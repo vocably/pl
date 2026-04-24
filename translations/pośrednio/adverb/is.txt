@@ -1,1 +1,2 @@
-["óbeint","með milligöngu"]
+óbeint
+með milligöngu

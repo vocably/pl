@@ -1,1 +1,2 @@
-["liluragarri","zoragarri"]
+liluragarri
+zoragarri

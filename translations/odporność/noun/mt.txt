@@ -1,1 +1,3 @@
-["immunità","reżistenza","saħħa"]
+immunità
+reżistenza
+saħħa

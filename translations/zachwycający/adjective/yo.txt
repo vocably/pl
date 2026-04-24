@@ -1,1 +1,2 @@
-["yanu","lẹwa"]
+yanu
+lẹwa

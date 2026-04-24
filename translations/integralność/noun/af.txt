@@ -1,1 +1,3 @@
-["integriteit","onskendbaarheid","dataintegriteit"]
+integriteit
+onskendbaarheid
+dataintegriteit

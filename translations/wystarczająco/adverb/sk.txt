@@ -1,1 +1,2 @@
-["dostatočne","stačí"]
+dostatočne
+stačí

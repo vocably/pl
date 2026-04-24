@@ -1,1 +1,3 @@
-["amlblyg","cynhwysfawr","cyffredinol"]
+amlblyg
+cynhwysfawr
+cyffredinol

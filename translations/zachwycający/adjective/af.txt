@@ -1,1 +1,2 @@
-["pragtig","wonderlik"]
+pragtig
+wonderlik

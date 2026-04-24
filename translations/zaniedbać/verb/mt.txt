@@ -1,1 +1,3 @@
-["traskura","tittraskura","ma tieħux ħsieb"]
+traskura
+tittraskura
+ma tieħux ħsieb

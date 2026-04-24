@@ -1,1 +1,3 @@
-["gurban etmek","bagyşlamak","mukaddes etmek"]
+gurban etmek
+bagyşlamak
+mukaddes etmek

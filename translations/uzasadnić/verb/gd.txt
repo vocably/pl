@@ -1,1 +1,2 @@
-["dearbhaich","fìrinnich"]
+dearbhaich
+fìrinnich

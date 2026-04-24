@@ -1,1 +1,3 @@
-["wichtich","teloarstellend","oansjenlik"]
+wichtich
+teloarstellend
+oansjenlik

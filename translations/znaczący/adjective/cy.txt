@@ -1,1 +1,3 @@
-["arwyddocaol","pwysig","sylweddol"]
+arwyddocaol
+pwysig
+sylweddol

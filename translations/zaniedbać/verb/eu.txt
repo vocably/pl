@@ -1,1 +1,3 @@
-["utzitu","arduragabekeriaz jokatu","alboratu"]
+utzitu
+arduragabekeriaz jokatu
+alboratu

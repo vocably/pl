@@ -1,1 +1,2 @@
-["meggyőz","rávesz"]
+meggyőz
+rávesz

@@ -1,1 +1,2 @@
-["asoslash","isbotlash"]
+asoslash
+isbotlash

@@ -1,1 +1,3 @@
-["vsestranski","celovit","univerzalen"]
+vsestranski
+celovit
+univerzalen

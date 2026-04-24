@@ -1,1 +1,3 @@
-["feláldozni","szentelni","megszentelni"]
+feláldozni
+szentelni
+megszentelni

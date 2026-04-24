@@ -1,1 +1,3 @@
-["viipymättä","välittömästi","heti"]
+viipymättä
+välittömästi
+heti

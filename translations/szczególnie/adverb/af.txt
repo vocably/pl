@@ -1,1 +1,2 @@
-["besonder","veral"]
+besonder
+veral

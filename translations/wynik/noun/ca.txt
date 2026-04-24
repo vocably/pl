@@ -1,1 +1,3 @@
-["resultat","conseqüència","marcador"]
+resultat
+conseqüència
+marcador

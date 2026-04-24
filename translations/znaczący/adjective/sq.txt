@@ -1,1 +1,3 @@
-["domethënës","i rëndësishëm","i konsiderueshëm"]
+domethënës
+i rëndësishëm
+i konsiderueshëm

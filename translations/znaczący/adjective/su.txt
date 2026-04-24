@@ -1,1 +1,3 @@
-["penting","signifikan","nyongkab"]
+penting
+signifikan
+nyongkab

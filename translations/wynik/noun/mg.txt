@@ -1,1 +1,3 @@
-["vokatra","isa","valiny"]
+vokatra
+isa
+valiny

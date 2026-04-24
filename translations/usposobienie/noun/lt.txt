@@ -1,1 +1,3 @@
-["nuotaika","būdas","charakteris"]
+nuotaika
+būdas
+charakteris

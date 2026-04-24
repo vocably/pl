@@ -1,1 +1,4 @@
-["paepae","tomokanga","mutunga","rohe"]
+paepae
+tomokanga
+mutunga
+rohe

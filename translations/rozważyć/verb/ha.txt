@@ -1,1 +1,2 @@
-["yi la'akari","bincika"]
+yi la'akari
+bincika

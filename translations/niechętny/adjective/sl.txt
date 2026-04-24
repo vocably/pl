@@ -1,1 +1,2 @@
-["nenaklonjen","nerad"]
+nenaklonjen
+nerad

@@ -1,1 +1,4 @@
-["kynnys","raja-arvo","kynnys (joessa)","nauha"]
+kynnys
+raja-arvo
+kynnys (joessa)
+nauha

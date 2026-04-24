@@ -1,1 +1,3 @@
-["mizaç","huy","ruh hali"]
+mizaç
+huy
+ruh hali

@@ -1,1 +1,3 @@
-["hunhu","mafungiro","mweya"]
+hunhu
+mafungiro
+mweya

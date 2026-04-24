@@ -1,1 +1,2 @@
-["különösen","főleg"]
+különösen
+főleg

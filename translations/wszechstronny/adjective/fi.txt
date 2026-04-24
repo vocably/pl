@@ -1,1 +1,3 @@
-["monipuolinen","yleismaailmallinen","universaali"]
+monipuolinen
+yleismaailmallinen
+universaali

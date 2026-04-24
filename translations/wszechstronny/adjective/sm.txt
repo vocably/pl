@@ -1,1 +1,3 @@
-["maʻataʻi","potomua","lautele"]
+maʻataʻi
+potomua
+lautele

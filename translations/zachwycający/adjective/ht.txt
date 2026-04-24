@@ -1,1 +1,2 @@
-["adorab","supèb"]
+adorab
+supèb

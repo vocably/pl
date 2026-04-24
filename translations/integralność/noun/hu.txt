@@ -1,1 +1,3 @@
-["integritás","sértetlenség","teljesség"]
+integritás
+sértetlenség
+teljesség

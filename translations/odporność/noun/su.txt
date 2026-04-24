@@ -1,1 +1,3 @@
-["kakuatan","daya tahan","imunitas"]
+kakuatan
+daya tahan
+imunitas

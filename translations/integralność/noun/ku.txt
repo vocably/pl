@@ -1,1 +1,3 @@
-["yekparebûn","parastin","temamiya"]
+yekparebûn
+parastin
+temamiya

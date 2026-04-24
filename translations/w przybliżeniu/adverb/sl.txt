@@ -1,1 +1,2 @@
-["približno","okvirno"]
+približno
+okvirno

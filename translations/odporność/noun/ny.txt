@@ -1,1 +1,3 @@
-["chitetezo","kulimba","mphamvu"]
+chitetezo
+kulimba
+mphamvu

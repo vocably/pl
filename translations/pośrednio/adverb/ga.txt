@@ -1,1 +1,2 @@
-["go díreach","go neamhdhíreach"]
+go díreach
+go neamhdhíreach

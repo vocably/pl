@@ -1,1 +1,3 @@
-["svestran","višestran","univerzalan"]
+svestran
+višestran
+univerzalan

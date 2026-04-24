@@ -1,1 +1,3 @@
-["nyehela","inehela","hlwekisetsa"]
+nyehela
+inehela
+hlwekisetsa

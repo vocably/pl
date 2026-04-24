@@ -1,1 +1,3 @@
-["immunitet","motstånd","härdighet"]
+immunitet
+motstånd
+härdighet

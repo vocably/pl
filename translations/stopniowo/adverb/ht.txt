@@ -1,1 +1,2 @@
-["tik pa tik","grad yèlman"]
+tik pa tik
+grad yèlman

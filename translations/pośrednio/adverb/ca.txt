@@ -1,1 +1,1 @@
-["indirectament"]
+indirectament

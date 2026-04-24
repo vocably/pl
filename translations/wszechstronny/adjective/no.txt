@@ -1,1 +1,3 @@
-["allsidig","omfattende","universell"]
+allsidig
+omfattende
+universell

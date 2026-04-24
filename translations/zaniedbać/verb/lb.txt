@@ -1,1 +1,3 @@
-["veronsaachen","vernoléissegen","net nokommen"]
+veronsaachen
+vernoléissegen
+net nokommen

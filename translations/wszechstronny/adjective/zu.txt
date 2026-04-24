@@ -1,1 +1,3 @@
-["onke","jikelele","eziningi"]
+onke
+jikelele
+eziningi

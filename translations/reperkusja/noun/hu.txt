@@ -1,1 +1,2 @@
-["visszahatás","következmény"]
+visszahatás
+következmény

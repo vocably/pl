@@ -1,1 +1,4 @@
-["tokonana","fetra","sakana","fret"]
+tokonana
+fetra
+sakana
+fret

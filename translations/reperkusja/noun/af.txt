@@ -1,1 +1,2 @@
-["gevolg","weerklank"]
+gevolg
+weerklank

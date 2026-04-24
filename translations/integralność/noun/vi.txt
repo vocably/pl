@@ -1,1 +1,3 @@
-["tính toàn vẹn","sự toàn vẹn","tính toàn vẹn lãnh thổ"]
+tính toàn vẹn
+sự toàn vẹn
+tính toàn vẹn lãnh thổ

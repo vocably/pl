@@ -1,1 +1,3 @@
-["toe-tsaina","fomba","toetra"]
+toe-tsaina
+fomba
+toetra

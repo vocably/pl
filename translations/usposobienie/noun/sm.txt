@@ -1,1 +1,3 @@
-["uiga","lagona","mafaufau"]
+uiga
+lagona
+mafaufau

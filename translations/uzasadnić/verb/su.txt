@@ -1,1 +1,2 @@
-["ngabuktoskeun","ngajelaskeun"]
+ngabuktoskeun
+ngajelaskeun

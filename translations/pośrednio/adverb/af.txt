@@ -1,1 +1,2 @@
-["indirek","middellik"]
+indirek
+middellik

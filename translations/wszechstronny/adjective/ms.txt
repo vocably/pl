@@ -1,1 +1,3 @@
-["serba boleh","komprehensif","universal"]
+serba boleh
+komprehensif
+universal

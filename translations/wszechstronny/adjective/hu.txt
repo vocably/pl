@@ -1,1 +1,3 @@
-["sokoldalú","átfogó","univerzális"]
+sokoldalú
+átfogó
+univerzális

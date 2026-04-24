@@ -1,1 +1,2 @@
-["fikiri","zingatia"]
+fikiri
+zingatia

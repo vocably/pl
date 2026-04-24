@@ -1,1 +1,3 @@
-["temperament","humør","innstilling"]
+temperament
+humør
+innstilling

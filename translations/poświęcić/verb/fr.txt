@@ -1,1 +1,3 @@
-["sacrifier","consacrer","bénir"]
+sacrifier
+consacrer
+bénir

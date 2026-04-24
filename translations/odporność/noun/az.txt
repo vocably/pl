@@ -1,1 +1,3 @@
-["immunitet","dözümlülük","dayanıqlılıq"]
+immunitet
+dözümlülük
+dayanıqlılıq

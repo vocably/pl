@@ -1,1 +1,2 @@
-["magjepsës","mahnitës"]
+magjepsës
+mahnitës

@@ -1,1 +1,3 @@
-["boikokobetso","mamello","matla"]
+boikokobetso
+mamello
+matla

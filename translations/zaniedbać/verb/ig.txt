@@ -1,1 +1,3 @@
-["ileghara","ekwela ka ihe mebie","hapụ"]
+ileghara
+ekwela ka ihe mebie
+hapụ

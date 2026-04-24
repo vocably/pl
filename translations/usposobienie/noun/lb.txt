@@ -1,1 +1,3 @@
-["Temperament","Laun","Astellung"]
+Temperament
+Laun
+Astellung

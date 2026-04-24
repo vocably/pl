@@ -1,1 +1,3 @@
-["povaha","nálada","postoj"]
+povaha
+nálada
+postoj

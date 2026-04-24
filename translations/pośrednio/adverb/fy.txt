@@ -1,1 +1,2 @@
-["yndirekt","middellik"]
+yndirekt
+middellik

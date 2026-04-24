@@ -1,1 +1,2 @@
-["približne","zhruba"]
+približne
+zhruba

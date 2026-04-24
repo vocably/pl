@@ -1,1 +1,3 @@
-["sephetho","litholoana","tulelo"]
+sephetho
+litholoana
+tulelo

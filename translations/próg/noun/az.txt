@@ -1,1 +1,4 @@
-["eşik","hədd","astana","perd"]
+eşik
+hədd
+astana
+perd

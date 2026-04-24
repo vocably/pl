@@ -1,1 +1,4 @@
-["ambang","palang","batas","fret"]
+ambang
+palang
+batas
+fret

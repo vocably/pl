@@ -1,1 +1,2 @@
-["bardoshli","matonatli"]
+bardoshli
+matonatli

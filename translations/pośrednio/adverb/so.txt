@@ -1,1 +1,2 @@
-["si toos ahayn","dhex-dhexaad"]
+si toos ahayn
+dhex-dhexaad

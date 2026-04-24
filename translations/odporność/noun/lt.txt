@@ -1,1 +1,3 @@
-["imunitetas","atsparumas","ištvermė"]
+imunitetas
+atsparumas
+ištvermė

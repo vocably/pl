@@ -1,1 +1,3 @@
-["mgbochi","ntachi obi","ike"]
+mgbochi
+ntachi obi
+ike

@@ -1,1 +1,3 @@
-["hali","ɗabi'a","yanayi"]
+hali
+ɗabi'a
+yanayi

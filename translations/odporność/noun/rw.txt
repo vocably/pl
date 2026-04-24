@@ -1,1 +1,3 @@
-["ubudahangarwa","kwihangana","gukomera"]
+ubudahangarwa
+kwihangana
+gukomera

@@ -1,1 +1,3 @@
-["vientisumas","neliečiamumas","integralumas"]
+vientisumas
+neliečiamumas
+integralumas

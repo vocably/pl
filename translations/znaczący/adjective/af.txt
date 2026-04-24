@@ -1,1 +1,3 @@
-["beduidend","betekenisvol","aansienlik"]
+beduidend
+betekenisvol
+aansienlik

@@ -1,1 +1,3 @@
-["integrità","kompletezza","sħuħija"]
+integrità
+kompletezza
+sħuħija

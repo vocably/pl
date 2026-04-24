@@ -1,1 +1,2 @@
-["maftunkor","go'zal"]
+maftunkor
+go'zal

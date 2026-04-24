@@ -1,1 +1,3 @@
-["daya tahan","kekebalan","kakuwatan"]
+daya tahan
+kekebalan
+kakuwatan

@@ -1,1 +1,3 @@
-["ngantepkeun","ngantep","teu maliré"]
+ngantepkeun
+ngantep
+teu maliré

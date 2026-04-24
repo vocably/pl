@@ -1,1 +1,3 @@
-["çox yönlü","hərtərəfli","universal"]
+çox yönlü
+hərtərəfli
+universal

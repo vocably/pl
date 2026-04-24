@@ -1,1 +1,2 @@
-["överväga","begrunda"]
+överväga
+begrunda

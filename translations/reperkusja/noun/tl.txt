@@ -1,1 +1,2 @@
-["kahihinatnan","epekto"]
+kahihinatnan
+epekto

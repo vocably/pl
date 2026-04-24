@@ -1,1 +1,3 @@
-["das Gemüt","die Laune","die Stimmung"]
+das Gemüt
+die Laune
+die Stimmung

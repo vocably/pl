@@ -1,1 +1,2 @@
-["ka mokgwa o sa tobang","ka ho sa tobang"]
+ka mokgwa o sa tobang
+ka ho sa tobang

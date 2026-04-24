@@ -1,1 +1,3 @@
-["mångsidig","allround","universell"]
+mångsidig
+allround
+universell

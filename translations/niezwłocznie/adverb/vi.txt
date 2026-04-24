@@ -1,1 +1,3 @@
-["ngay lập tức","khẩn cấp","không chậm trễ"]
+ngay lập tức
+khẩn cấp
+không chậm trễ

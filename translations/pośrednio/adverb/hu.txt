@@ -1,1 +1,2 @@
-["közvetve","áttételesen"]
+közvetve
+áttételesen

@@ -1,1 +1,3 @@
-["fjölhæfur","alhliða","margþættur"]
+fjölhæfur
+alhliða
+margþættur

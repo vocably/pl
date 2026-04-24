@@ -1,1 +1,3 @@
-["hodari","jumuishi","pana"]
+hodari
+jumuishi
+pana

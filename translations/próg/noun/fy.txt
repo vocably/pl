@@ -1,1 +1,4 @@
-["drompel","grins","hurde","fret"]
+drompel
+grins
+hurde
+fret

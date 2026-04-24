@@ -1,1 +1,3 @@
-["immunitet","modstand","robusthed"]
+immunitet
+modstand
+robusthed

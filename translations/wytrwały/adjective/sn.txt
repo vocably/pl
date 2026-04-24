@@ -1,1 +1,2 @@
-["Anzwisisa","Tsigira"]
+Anzwisisa
+Tsigira

@@ -1,1 +1,2 @@
-["ntawm","los ntawm"]
+ntawm
+los ntawm

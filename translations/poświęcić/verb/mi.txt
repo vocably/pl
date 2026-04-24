@@ -1,1 +1,3 @@
-["patu","whakahere","tapu"]
+patu
+whakahere
+tapu

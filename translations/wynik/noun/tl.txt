@@ -1,1 +1,3 @@
-["resulta","kinalabasan","puntos"]
+resulta
+kinalabasan
+puntos

@@ -1,1 +1,3 @@
-["sláine","iomláine","ionracas"]
+sláine
+iomláine
+ionracas

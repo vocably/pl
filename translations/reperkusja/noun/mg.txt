@@ -1,1 +1,2 @@
-["vokany","akony"]
+vokany
+akony

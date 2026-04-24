@@ -1,1 +1,3 @@
-["desatender","abandonar","descuidar"]
+desatender
+abandonar
+descuidar

@@ -1,1 +1,4 @@
-["eşik","basamak","engel","perde"]
+eşik
+basamak
+engel
+perde

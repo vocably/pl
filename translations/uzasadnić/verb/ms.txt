@@ -1,1 +1,2 @@
-["mewajarkan","membuktikan"]
+mewajarkan
+membuktikan

@@ -1,1 +1,2 @@
-["consider","think over"]
+consider
+think over

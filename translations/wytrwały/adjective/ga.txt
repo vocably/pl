@@ -1,1 +1,2 @@
-["buan","seasmhach"]
+buan
+seasmhach

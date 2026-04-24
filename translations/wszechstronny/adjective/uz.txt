@@ -1,1 +1,3 @@
-["ko'p qirrali","har tomonlama","universal"]
+ko'p qirrali
+har tomonlama
+universal

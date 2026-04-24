@@ -1,1 +1,3 @@
-["disposição","temperamento","feitio"]
+disposição
+temperamento
+feitio

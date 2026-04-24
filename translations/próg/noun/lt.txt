@@ -1,1 +1,4 @@
-["slenkstis","riba","pragaras","tiltas"]
+slenkstis
+riba
+pragaras
+tiltas

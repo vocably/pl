@@ -1,1 +1,3 @@
-["integritet","okränkbarhet","fullständighet"]
+integritet
+okränkbarhet
+fullständighet

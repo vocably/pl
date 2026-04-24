@@ -1,1 +1,3 @@
-["onmiddellijk","meteen","onverwijld"]
+onmiddellijk
+meteen
+onverwijld

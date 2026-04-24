@@ -1,1 +1,2 @@
-["utholdende","vedholdende"]
+utholdende
+vedholdende

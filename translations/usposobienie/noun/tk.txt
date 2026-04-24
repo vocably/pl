@@ -1,1 +1,3 @@
-["häsiýet","ahlak","gylyk"]
+häsiýet
+ahlak
+gylyk

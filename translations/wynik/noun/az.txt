@@ -1,1 +1,3 @@
-["nəticə","hesab","yekun"]
+nəticə
+hesab
+yekun

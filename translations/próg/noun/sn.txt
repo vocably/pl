@@ -1,1 +1,4 @@
-["mukova","chikumbaro","muganho","chipingamupinyi"]
+mukova
+chikumbaro
+muganho
+chipingamupinyi

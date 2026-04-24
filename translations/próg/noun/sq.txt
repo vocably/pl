@@ -1,1 +1,4 @@
-["prag","kufi","pengesë","frezë"]
+prag
+kufi
+pengesë
+frezë

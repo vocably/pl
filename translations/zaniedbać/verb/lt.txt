@@ -1,1 +1,3 @@
-["apleisti","užleisti","neprižiūrėti"]
+apleisti
+užleisti
+neprižiūrėti

@@ -1,1 +1,3 @@
-["immediatament","sense dilació","tot seguit"]
+immediatament
+sense dilació
+tot seguit

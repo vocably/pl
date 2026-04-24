@@ -1,1 +1,3 @@
-["natiijo","dhibco","xisaab"]
+natiijo
+dhibco
+xisaab

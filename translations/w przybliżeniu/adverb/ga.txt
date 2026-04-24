@@ -1,1 +1,2 @@
-["neasach","garbh"]
+neasach
+garbh

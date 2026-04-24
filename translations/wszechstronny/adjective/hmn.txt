@@ -1,1 +1,3 @@
-["ntse","txawj","paub txhua yam"]
+ntse
+txawj
+paub txhua yam

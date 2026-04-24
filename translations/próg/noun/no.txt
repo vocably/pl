@@ -1,1 +1,4 @@
-["terskel","grense","strykk","bånd"]
+terskel
+grense
+strykk
+bånd

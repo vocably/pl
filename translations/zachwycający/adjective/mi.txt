@@ -1,1 +1,2 @@
-["whakawai","ataahua"]
+whakawai
+ataahua

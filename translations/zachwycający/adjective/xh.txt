@@ -1,1 +1,2 @@
-["Intle","Mnandi"]
+Intle
+Mnandi

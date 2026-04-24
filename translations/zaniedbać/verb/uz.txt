@@ -1,1 +1,3 @@
-["e'tiborsiz qoldirmoq","bajarilmay qolmoq","kamchilikka yo'l qo'ymoq"]
+e'tiborsiz qoldirmoq
+bajarilmay qolmoq
+kamchilikka yo'l qo'ymoq

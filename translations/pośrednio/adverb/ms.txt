@@ -1,1 +1,2 @@
-["secara tidak langsung","secara tidak terus"]
+secara tidak langsung
+secara tidak terus

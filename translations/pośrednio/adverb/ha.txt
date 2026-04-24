@@ -1,1 +1,2 @@
-["a kaikaice","ta hanyar"]
+a kaikaice
+ta hanyar

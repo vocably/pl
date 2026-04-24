@@ -1,1 +1,3 @@
-["raspoloženje","ćud","sklonost"]
+raspoloženje
+ćud
+sklonost

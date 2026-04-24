@@ -1,1 +1,3 @@
-["villseit","universell","allgemeng"]
+villseit
+universell
+allgemeng

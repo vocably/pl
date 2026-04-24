@@ -1,1 +1,3 @@
-["hopena","helu","hua"]
+hopena
+helu
+hua

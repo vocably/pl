@@ -1,1 +1,3 @@
-["mutunci","cikakken","daidaito"]
+mutunci
+cikakken
+daidaito

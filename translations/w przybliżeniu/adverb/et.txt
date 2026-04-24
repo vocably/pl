@@ -1,1 +1,2 @@
-["ligikaudu","umbes"]
+ligikaudu
+umbes

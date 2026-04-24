@@ -1,1 +1,2 @@
-["afleiðing","ómun"]
+afleiðing
+ómun

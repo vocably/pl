@@ -1,1 +1,2 @@
-["heyranedici","valeh edici"]
+heyranedici
+valeh edici

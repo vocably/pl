@@ -1,1 +1,2 @@
-["ū tonu","manawanui"]
+ū tonu
+manawanui

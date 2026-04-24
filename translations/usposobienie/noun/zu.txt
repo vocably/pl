@@ -1,1 +1,3 @@
-["isimilo","isimo","umoya"]
+isimilo
+isimo
+umoya

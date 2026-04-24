@@ -1,1 +1,4 @@
-["stairs","threshold","sill","fret"]
+stairs
+threshold
+sill
+fret

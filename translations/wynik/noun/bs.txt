@@ -1,1 +1,3 @@
-["rezultat","ishod","zbir"]
+rezultat
+ishod
+zbir

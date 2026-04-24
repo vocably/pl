@@ -1,1 +1,3 @@
-["ufite ubuhanga bwinshi","rusange","nyamwinshi"]
+ufite ubuhanga bwinshi
+rusange
+nyamwinshi

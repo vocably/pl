@@ -1,1 +1,3 @@
-["betydande","märklig","omfattande"]
+betydande
+märklig
+omfattande

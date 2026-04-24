@@ -1,1 +1,3 @@
-["temperament","dispozicion","gjendje shpirtërore"]
+temperament
+dispozicion
+gjendje shpirtërore

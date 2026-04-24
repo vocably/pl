@@ -1,1 +1,2 @@
-["eftervirkning","konsekvens"]
+eftervirkning
+konsekvens

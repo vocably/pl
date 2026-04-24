@@ -1,1 +1,2 @@
-["vastupidav","visa"]
+vastupidav
+visa

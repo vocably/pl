@@ -1,1 +1,3 @@
-["netije","jem","hasyl"]
+netije
+jem
+hasyl

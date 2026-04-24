@@ -1,1 +1,3 @@
-["veelzijdig","alomvattend","universeel"]
+veelzijdig
+alomvattend
+universeel

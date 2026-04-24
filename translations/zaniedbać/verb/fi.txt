@@ -1,1 +1,3 @@
-["laiminlyödä","jättää hoitamatta","lyödä laimin"]
+laiminlyödä
+jättää hoitamatta
+lyödä laimin

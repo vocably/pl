@@ -1,1 +1,3 @@
-["atstāt novārtā","palaist garām","neievērot"]
+atstāt novārtā
+palaist garām
+neievērot

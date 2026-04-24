@@ -1,1 +1,4 @@
-["sogliu","limitu","scogliu","tastu"]
+sogliu
+limitu
+scogliu
+tastu

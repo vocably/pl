@@ -1,1 +1,3 @@
-["prag","kućni prag","prag rijeke"]
+prag
+kućni prag
+prag rijeke

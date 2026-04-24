@@ -1,1 +1,2 @@
-["humigit-kumulang","tinatayang"]
+humigit-kumulang
+tinatayang

@@ -1,1 +1,3 @@
-["umphumphu","kukhupuka","kukhazikika"]
+umphumphu
+kukhupuka
+kukhazikika

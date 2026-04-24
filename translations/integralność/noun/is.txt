@@ -1,1 +1,3 @@
-["heild","heilindi","ósnertanleiki"]
+heild
+heilindi
+ósnertanleiki

@@ -1,1 +1,3 @@
-["versatile","poliedrico","universale"]
+versatile
+poliedrico
+universale

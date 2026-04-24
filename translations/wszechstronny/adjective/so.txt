@@ -1,1 +1,3 @@
-["dhammaan","gebi ahaanba","dhinacyo badan"]
+dhammaan
+gebi ahaanba
+dhinacyo badan

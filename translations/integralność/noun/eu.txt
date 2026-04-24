@@ -1,1 +1,3 @@
-["osotasun","ukiezintasun","batasun"]
+osotasun
+ukiezintasun
+batasun

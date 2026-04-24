@@ -1,1 +1,2 @@
-["sufiĉe","ĝisege"]
+sufiĉe
+ĝisege

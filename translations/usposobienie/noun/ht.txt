@@ -1,1 +1,3 @@
-["tanperaman","dispozisyon","atitid"]
+tanperaman
+dispozisyon
+atitid

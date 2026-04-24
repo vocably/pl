@@ -1,1 +1,3 @@
-["anian","tymer","ysbryd"]
+anian
+tymer
+ysbryd

@@ -1,1 +1,3 @@
-["moh","hoʻolaʻa","laʻa"]
+moh
+hoʻolaʻa
+laʻa

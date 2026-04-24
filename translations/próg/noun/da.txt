@@ -1,1 +1,3 @@
-["tærskel","grænse","bånd"]
+tærskel
+grænse
+bånd

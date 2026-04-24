@@ -1,1 +1,3 @@
-["watek","rasa","sikep"]
+watek
+rasa
+sikep

@@ -1,1 +1,4 @@
-["umnyango","isango","umbundu","umkhawulo"]
+umnyango
+isango
+umbundu
+umkhawulo

@@ -1,1 +1,3 @@
-["yndustry","wjerstân","fearkrêft"]
+yndustry
+wjerstân
+fearkrêft

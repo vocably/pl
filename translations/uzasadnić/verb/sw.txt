@@ -1,1 +1,2 @@
-["thibitisha","hakikisha"]
+thibitisha
+hakikisha

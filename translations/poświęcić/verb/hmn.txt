@@ -1,1 +1,3 @@
-["fij","txi","fij txi"]
+fij
+txi
+fij txi

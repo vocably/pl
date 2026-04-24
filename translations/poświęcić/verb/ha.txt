@@ -1,1 +1,3 @@
-["fida","sadaukar","tsarkake"]
+fida
+sadaukar
+tsarkake

@@ -1,1 +1,3 @@
-["rigakafi","juriya","hakuri"]
+rigakafi
+juriya
+hakuri

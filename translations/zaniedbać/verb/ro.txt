@@ -1,1 +1,3 @@
-["a neglija","a nu-și îndeplini","a lăsa în paragină"]
+a neglija
+a nu-și îndeplini
+a lăsa în paragină

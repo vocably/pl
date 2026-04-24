@@ -1,1 +1,2 @@
-["dolaylı olarak","aracılığıyla"]
+dolaylı olarak
+aracılığıyla

@@ -1,1 +1,3 @@
-["raspoloženje","narav","temperament"]
+raspoloženje
+narav
+temperament

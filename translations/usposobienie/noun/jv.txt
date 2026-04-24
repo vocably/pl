@@ -1,1 +1,3 @@
-["watak","sipat","rasa"]
+watak
+sipat
+rasa

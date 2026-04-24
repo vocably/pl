@@ -1,1 +1,2 @@
-["saameyn","dhawaaq"]
+saameyn
+dhawaaq

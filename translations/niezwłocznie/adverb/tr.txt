@@ -1,1 +1,3 @@
-["hemen","derhal","ivedilikle"]
+hemen
+derhal
+ivedilikle

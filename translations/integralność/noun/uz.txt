@@ -1,1 +1,3 @@
-["yaxlitlik","buzilmaslik","to'liqlik"]
+yaxlitlik
+buzilmaslik
+to'liqlik

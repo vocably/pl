@@ -1,1 +1,3 @@
-["ĉiuflanka","universala","ampleksa"]
+ĉiuflanka
+universala
+ampleksa

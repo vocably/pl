@@ -1,1 +1,2 @@
-["dayanıklı","sebatlı"]
+dayanıklı
+sebatlı

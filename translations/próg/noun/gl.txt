@@ -1,1 +1,4 @@
-["limiar","soleira","fronteira","traste"]
+limiar
+soleira
+fronteira
+traste

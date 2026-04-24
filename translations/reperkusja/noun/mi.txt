@@ -1,1 +1,2 @@
-["hua","whakaawe"]
+hua
+whakaawe

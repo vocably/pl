@@ -1,1 +1,3 @@
-["imunidad","resistensya","katatagan"]
+imunidad
+resistensya
+katatagan

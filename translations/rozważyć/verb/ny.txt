@@ -1,1 +1,2 @@
-["kuganizira","kusinkhasinkha"]
+kuganizira
+kusinkhasinkha

@@ -1,1 +1,3 @@
-["anerkennen","bestätigen","würdigen"]
+anerkennen
+bestätigen
+würdigen

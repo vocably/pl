@@ -1,1 +1,4 @@
-["llindar","seuil","gual","trast"]
+llindar
+seuil
+gual
+trast

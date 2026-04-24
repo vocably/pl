@@ -1,1 +1,3 @@
-["luonne","mieliala","asenne"]
+luonne
+mieliala
+asenne

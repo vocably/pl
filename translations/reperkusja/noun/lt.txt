@@ -1,1 +1,2 @@
-["pasekmė","atgarsis"]
+pasekmė
+atgarsis

@@ -1,1 +1,2 @@
-["ngokungathanga ngqo","ngokusebenzisa"]
+ngokungathanga ngqo
+ngokusebenzisa

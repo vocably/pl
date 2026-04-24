@@ -1,1 +1,2 @@
-["aproximadament","si fa no fa"]
+aproximadament
+si fa no fa

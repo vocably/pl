@@ -1,1 +1,3 @@
-["tábhachtach","suntasach","feiceálach"]
+tábhachtach
+suntasach
+feiceálach

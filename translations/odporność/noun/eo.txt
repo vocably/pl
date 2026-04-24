@@ -1,1 +1,3 @@
-["imuneco","rezistkapablo","fortikeco"]
+imuneco
+rezistkapablo
+fortikeco

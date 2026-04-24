@@ -1,1 +1,4 @@
-["troth","rhiniog","terfyn","ffrith"]
+troth
+rhiniog
+terfyn
+ffrith

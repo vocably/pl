@@ -1,1 +1,3 @@
-["dispoziție","fire","temperament"]
+dispoziție
+fire
+temperament

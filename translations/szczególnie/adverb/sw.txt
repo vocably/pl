@@ -1,1 +1,2 @@
-["hasa","hususan"]
+hasa
+hususan

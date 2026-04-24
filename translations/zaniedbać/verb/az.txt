@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","yerinə yetirməmək","əhəmiyyət verməmək"]
+laqeyd yanaşmaq
+yerinə yetirməmək
+əhəmiyyət verməmək

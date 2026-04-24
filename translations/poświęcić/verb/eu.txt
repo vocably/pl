@@ -1,1 +1,3 @@
-["sakrifikatu","eskaini","sagartu"]
+sakrifikatu
+eskaini
+sagartu

@@ -1,1 +1,3 @@
-["boitšisinyo","maikutlo","moea"]
+boitšisinyo
+maikutlo
+moea

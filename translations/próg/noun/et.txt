@@ -1,1 +1,3 @@
-["künnis","lävi","kriitiline piir"]
+künnis
+lävi
+kriitiline piir

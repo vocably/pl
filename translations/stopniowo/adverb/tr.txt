@@ -1,1 +1,2 @@
-["aşamalı olarak","giderek"]
+aşamalı olarak
+giderek

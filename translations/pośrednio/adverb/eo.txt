@@ -1,1 +1,2 @@
-["pere","malrekte"]
+pere
+malrekte

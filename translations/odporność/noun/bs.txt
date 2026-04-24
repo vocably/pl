@@ -1,1 +1,3 @@
-["imunitet","otpornost","izdržljivost"]
+imunitet
+otpornost
+izdržljivost

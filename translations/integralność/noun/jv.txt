@@ -1,1 +1,3 @@
-["integritas","kawutuhan","kautuhan"]
+integritas
+kawutuhan
+kautuhan

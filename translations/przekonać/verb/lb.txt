@@ -1,1 +1,2 @@
-["iwwerzeegen","bekéieren"]
+iwwerzeegen
+bekéieren

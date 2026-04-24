@@ -1,1 +1,3 @@
-["serba guna","jembar","universal"]
+serba guna
+jembar
+universal

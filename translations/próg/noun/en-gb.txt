@@ -1,1 +1,4 @@
-["threshold","sill","fret","bar"]
+threshold
+sill
+fret
+bar

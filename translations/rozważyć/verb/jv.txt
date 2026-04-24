@@ -1,1 +1,2 @@
-["nimbang","ngrembug"]
+nimbang
+ngrembug

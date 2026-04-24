@@ -1,1 +1,3 @@
-["versatili","komprensiv","universali"]
+versatili
+komprensiv
+universali

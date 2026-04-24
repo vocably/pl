@@ -1,1 +1,4 @@
-["küszöb","határ","gát","bund"]
+küszöb
+határ
+gát
+bund

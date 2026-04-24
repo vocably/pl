@@ -1,1 +1,3 @@
-["izaera","umore","jarrera"]
+izaera
+umore
+jarrera

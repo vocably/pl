@@ -1,1 +1,2 @@
-["uthållig","ihärdig"]
+uthållig
+ihärdig

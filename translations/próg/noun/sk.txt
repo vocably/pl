@@ -1,1 +1,4 @@
-["prah","hranica","prekážka","pražec"]
+prah
+hranica
+prekážka
+pražec

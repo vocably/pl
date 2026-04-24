@@ -1,1 +1,3 @@
-["isimilo","imo","isimo sengqondo"]
+isimilo
+imo
+isimo sengqondo

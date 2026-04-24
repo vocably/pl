@@ -1,1 +1,3 @@
-["kilalanin","tanggapin","aprubahan"]
+kilalanin
+tanggapin
+aprubahan

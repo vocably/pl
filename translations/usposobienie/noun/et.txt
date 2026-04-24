@@ -1,1 +1,3 @@
-["iseloom","tuju","hoiak"]
+iseloom
+tuju
+hoiak

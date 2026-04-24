@@ -1,1 +1,3 @@
-["khả năng miễn dịch","sức đề kháng","khả năng chống chịu"]
+khả năng miễn dịch
+sức đề kháng
+khả năng chống chịu

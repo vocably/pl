@@ -1,1 +1,3 @@
-["a jertfi","a dedica","a sfinți"]
+a jertfi
+a dedica
+a sfinți

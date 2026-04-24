@@ -1,1 +1,3 @@
-["ioma-chruthach","ioma-ghnèitheach","uile-choitcheann"]
+ioma-chruthach
+ioma-ghnèitheach
+uile-choitcheann

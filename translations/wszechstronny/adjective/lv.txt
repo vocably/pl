@@ -1,1 +1,3 @@
-["daudzpusīgs","vispusīgs","universāls"]
+daudzpusīgs
+vispusīgs
+universāls

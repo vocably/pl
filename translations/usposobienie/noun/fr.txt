@@ -1,1 +1,3 @@
-["disposition","tempérament","humeur"]
+disposition
+tempérament
+humeur

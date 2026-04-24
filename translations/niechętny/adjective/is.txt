@@ -1,1 +1,2 @@
-["óvilhallur","tregur"]
+óvilhallur
+tregur

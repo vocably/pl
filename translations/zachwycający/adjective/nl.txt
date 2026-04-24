@@ -1,1 +1,2 @@
-["prachtig","betoverend"]
+prachtig
+betoverend

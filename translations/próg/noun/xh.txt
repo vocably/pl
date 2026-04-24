@@ -1,1 +1,4 @@
-["umda","isango","umqobo","isithintelo"]
+umda
+isango
+umqobo
+isithintelo

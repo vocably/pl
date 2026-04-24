@@ -1,1 +1,3 @@
-["dayacin","ka gaabin","dhayalsan"]
+dayacin
+ka gaabin
+dhayalsan

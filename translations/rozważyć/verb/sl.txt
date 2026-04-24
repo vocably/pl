@@ -1,1 +1,2 @@
-["razmisliti","pretehtati"]
+razmisliti
+pretehtati

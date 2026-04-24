@@ -1,1 +1,3 @@
-["ìobair","caitheadh","coisrig"]
+ìobair
+caitheadh
+coisrig

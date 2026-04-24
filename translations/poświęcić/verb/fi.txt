@@ -1,1 +1,3 @@
-["uhrata","pyhittää","siunata"]
+uhrata
+pyhittää
+siunata

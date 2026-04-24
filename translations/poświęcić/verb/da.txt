@@ -1,1 +1,3 @@
-["ofre","vie","indvie"]
+ofre
+vie
+indvie

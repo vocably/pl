@@ -1,1 +1,3 @@
-["immuunsus","vastupidavus","resilientsus"]
+immuunsus
+vastupidavus
+resilientsus

@@ -1,1 +1,3 @@
-["integridad","pagkakaisa","pagiging buo"]
+integridad
+pagkakaisa
+pagiging buo

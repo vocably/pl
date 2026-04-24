@@ -1,1 +1,3 @@
-["imunitet","rezistencë","qëndresë"]
+imunitet
+rezistencë
+qëndresë

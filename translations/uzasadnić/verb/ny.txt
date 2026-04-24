@@ -1,1 +1,2 @@
-["tsimikizira","longosola"]
+tsimikizira
+longosola

@@ -1,1 +1,4 @@
-["dorpel","drumpel","grens","riffie"]
+dorpel
+drumpel
+grens
+riffie
