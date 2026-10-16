@@ -1,0 +1,4 @@
+metszés
+átvágás
+kereszteződés
+megszakítás

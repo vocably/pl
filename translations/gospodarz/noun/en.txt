@@ -1,0 +1,4 @@
+host
+farmer
+landlord
+owner

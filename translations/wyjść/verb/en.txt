@@ -1,0 +1,5 @@
+go out
+leave
+come out
+get out
+emerge

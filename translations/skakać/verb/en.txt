@@ -1,0 +1,4 @@
+jump
+leap
+skip
+bounce

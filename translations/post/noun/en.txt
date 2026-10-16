@@ -1,0 +1,4 @@
+post
+pole
+position
+station

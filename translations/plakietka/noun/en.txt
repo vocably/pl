@@ -1,0 +1,3 @@
+badge
+nameplate
+plaque
